@@ -12,8 +12,8 @@ This repository does not contain any actual code and only serves as a "shortcut"
     
 #### Bibtex entry for citations
 
+```
 @ARTICLE{2021A&C....3600467P,
-
        author = {{Popov}, A.~A. and {Strokov}, V.~N. and {Surdyaev}, A.~A.},
         title = "{A proof-of-concept neural network for inferring parameters of a black hole from partial interferometric images of its shadow}",
       journal = {Astronomy and Computing},
@@ -27,3 +27,5 @@ This repository does not contain any actual code and only serves as a "shortcut"
        adsurl = {https://ui.adsabs.harvard.edu/abs/2021A&C....3600467P},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
+```
+
