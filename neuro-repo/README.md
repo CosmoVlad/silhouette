@@ -1,4 +1,4 @@
-### Proof-of-concept neural network models the images of black hole shadows
+### Proof-of-concept neural network models for images of black hole shadows
 
 This repository does not contain any actual code and only serves as a "shortcut" to the actual code hosted on Bitbucket (for historical reasons).
 
