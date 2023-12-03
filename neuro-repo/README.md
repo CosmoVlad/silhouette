@@ -5,9 +5,9 @@ This repository does not contain any actual code and only serves as a "shortcut"
 #### Links
 - Code:
     - Trained models and training/test scripts: [bitbucket.org/cosmoVlad/neuro-repo](https://bitbucket.org/cosmoVlad/neuro-repo)
-    - Datasets: Zenodo (*link to be added*)
+    - Datasets: Zenodo DOI [10.5281/zenodo.10205019](https://zenodo.org/doi/10.5281/zenodo.10205019)
 - Description:
-    - arXiv preprint: *link to be added*
+    - arXiv preprint: [2311.16227](https://arxiv.org/abs/2311.16227)
     - The paper with problem formulation and all details (see below for bibtex citation record):<br>[Popov, Strokov, and Surdyaev, Astronomy and Computing 36 (2021) 100467](https://doi.org/10.1016/j.ascom.2021.100467)
     
 #### Bibtex entry for citations
